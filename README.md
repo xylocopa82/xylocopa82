@@ -48,6 +48,7 @@ Interested in writing clean code, learning continuously, and growing as a softwa
 ---
 
 ## Background
+- Python Full Stack Develoer
 - IT Sales and Client Handling  
 - Technical Support (CCNA, MCSE)  
 - Strong foundation in systems, networking, and troubleshooting  
