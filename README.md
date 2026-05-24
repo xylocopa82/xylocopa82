@@ -30,7 +30,7 @@ Interested in writing clean code, learning continuously, and growing as a softwa
 ---
 
 ## What I’m Currently Doing
-- Completing Python Django developer training  
+- Completed Python Django developer training  
 - Building beginner to intermediate Django projects  
 - Strengthening Python fundamentals and OOP concepts  
 
